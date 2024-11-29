@@ -1,0 +1,19 @@
+{
+  "name": "backend_project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Pradeep Kumar",
+  "license": "ISC",
+  "description": "basic app to deploy",
+  "keywords": [
+    "node",
+    "pdp"
+  ],
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.21.1"
+  }
+}
